@@ -16,13 +16,15 @@ A handbook for Bitnation Ambassadors, and people in general who want greater sel
 
     5.1 Security Overview
     
-    5.2 Use Encrypted Communication
+    5.2 Cryptocurrencies and Blockchain Technology
     
-    5.3 Setting Up A Mesh Networks
+    5.3 Encrypted Communication and Signatures
     
-    5.4 Sovreign Entities (DAO, DBVN, TAZ)
+    5.4 Setting Up A Mesh Networks
     
-    5.5 P2P Justice And Security
+    5.5 Sovreign Entities (DAO, DBVN, TAZ)
+    
+    5.6 P2P Justice And Security
     
 ### 6. Sovereignty Through Diplomacy
 
