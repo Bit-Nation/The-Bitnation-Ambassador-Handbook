@@ -9,6 +9,7 @@ A handbook for Bitnation Ambassadors, and people in general who want greater sel
 3. DBVNs, Embassies, Consulates, Holons and Ports
 4. The Different Types Of Bitnation Ambassadors
 5. Sovereignty Through Technology
+
     5.1 Security Overview
     5.2 Use Encrypted Communication
     5.3 Setting Up A Mesh Networks
